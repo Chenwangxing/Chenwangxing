@@ -14,7 +14,7 @@
 
 - 😄 ORCID: [ORCID](https://orcid.org/0000-0001-8716-7070)
 
-
+- 💬 ResearchGate: [ResearchGate](https://www.researchgate.net/profile/Wangxing-Chen/research)
 
 <!--
 **Chenwangxing/Chenwangxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
