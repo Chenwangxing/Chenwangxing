@@ -30,7 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chenwangxing) 
-<a href="https://github.com/Chenwangxing">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chenwangxing&show_icons=true&theme=radical" />
-</a>
+
