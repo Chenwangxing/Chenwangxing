@@ -8,7 +8,7 @@
 
 - 🌱 I’m interested in Treajectory Prediction, Graph Neural Networks, and Deep Learning
 
-- 📫 How to reach me: chenwangxing@smail.sut.edu.cn 
+- 📫 Contact: chenwangxing@smail.sut.edu.cn 
 
 - ⚡ Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=gsqkSeUAAAAJ&hl=zh-CN)
 
