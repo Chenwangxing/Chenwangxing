@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-#- 🔭 I’m currently a final-year doctoral student at Shenyang University of Technology
+- 🔭 I’m currently a final-year doctoral student at Shenyang University of Technology
 
-#- 🌱 I’m interested in Treajectory Prediction and Deep Learning
+- 🌱 I’m interested in Treajectory Prediction and Deep Learning
 
-#- 📫 How to reach me: chenwangxing@smail.sut.edu.cn 
+- 📫 How to reach me: chenwangxing@smail.sut.edu.cn 
 
 - 
 
