@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi, I'm Wangxing Chen ! Glad to meet you 😁
+
 
 - 🔭 I’m currently a final-year doctoral student at Shenyang University of Technology
 
