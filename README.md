@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Wangxing Chen ! Glad to meet you 😁
 
 <a href="https://github.com/Chenwangxing">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chenwangxing&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chenwangxing&show_icons=true" />
 </a>
 
 - 🔭 I’m currently a final-year PhD student at Shenyang University of Technology
@@ -14,7 +14,7 @@
 
 - 😄 ORCID: [ORCID](https://orcid.org/0000-0001-8716-7070)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chenwangxing) 
+
 
 <!--
 **Chenwangxing/Chenwangxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chenwangxing) 
+<a href="https://github.com/Chenwangxing">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chenwangxing&show_icons=true&theme=radical" />
+</a>
