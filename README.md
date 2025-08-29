@@ -1,5 +1,8 @@
 ## 👋 Hi, I'm Wangxing Chen ! Glad to meet you 😁
 
+<a href="https://github.com/Chenwangxing">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chenwangxing&show_icons=true&theme=radical" />
+</a>
 
 - 🔭 I’m currently a final-year PhD student at Shenyang University of Technology
 
