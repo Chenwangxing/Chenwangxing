@@ -7,7 +7,9 @@
 
 - 📫 How to reach me: chenwangxing@smail.sut.edu.cn 
 
-- ⚡ Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=gsqkSeUAAAAJ&hl=zh-CN)   - 😄 ORCID: [ORCID](https://orcid.org/0000-0001-8716-7070)
+- ⚡ Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=gsqkSeUAAAAJ&hl=zh-CN)
+
+- 😄 ORCID: [ORCID](https://orcid.org/0000-0001-8716-7070)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chenwangxing) 
 
