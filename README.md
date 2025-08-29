@@ -6,9 +6,9 @@
 
 - 📫 How to reach me: chenwangxing@smail.sut.edu.cn 
 
-- ⚡ Google Scholar: [](https://scholar.google.com/citations?user=gsqkSeUAAAAJ&hl=zh-CN)
+- ⚡ [Google Scholar](https://scholar.google.com/citations?user=gsqkSeUAAAAJ&hl=zh-CN)
 
-- 😄 ORCID: [](https://orcid.org/my-orcid?orcid=0000-0001-8716-7070)
+- 😄 [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-8716-7070)
 
 <!--
 **Chenwangxing/Chenwangxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
