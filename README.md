@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a final-year PhD student at Shenyang University of Technology
 
-- 🌱 I’m interested in Treajectory Prediction and Deep Learning
+- 🌱 I’m interested in Treajectory Prediction, Graph Neural Networks, and Deep Learning
 
 - 📫 How to reach me: chenwangxing@smail.sut.edu.cn 
 
